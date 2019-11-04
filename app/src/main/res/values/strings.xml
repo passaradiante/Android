@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Passar-Adiante</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Passar Adiante</string>
+    <string name="nav_header_subtitle">contato@passaradiante.com.br</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Buscar</string>
+
+    <string name="menu_home">Menu</string>
+    <string name="menu_gallery">Login</string>
+    <string name="menu_slideshow">Crie sua conta</string>
+    <string name="menu_tools">Anuncie</string>
+    <string name="menu_share">Produtos</string>
+    <string name="menu_send">Serviços</string>
+</resources>
